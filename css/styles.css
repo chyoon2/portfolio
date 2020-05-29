@@ -1,18 +1,23 @@
 body {
- border: 2px solid rgb(0, 0, 0);
- padding: 20px;
- margin: 12px;
- background-color: lightblue; 
+  border: 2px solid rgb(0, 0, 0);
+  padding: 20px;
+  margin: 12px; 
 }
 img {
-  width: 230px;
-  height: 230px;
+  width: 100px;
+  height: 100px;
   float: left;
   clear: both;
-  margin-right: 50px; 
+  margin-right: 25px; 
+}
+h1{
+  font-size: 87px;
+}
+h2 {
+  font-size 55px;
 }
 p.about{
   font-family: 'Courier New', Courier, monospace;
+  font-style: 12px;
 }
 
-}
