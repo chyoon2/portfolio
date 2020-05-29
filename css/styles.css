@@ -4,3 +4,7 @@ body {
  margin: 12px;
  background-color: lightblue; 
 }
+img {
+  height: 10%;
+  width: 10%;
+}
