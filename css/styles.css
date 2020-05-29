@@ -5,6 +5,14 @@ body {
  background-color: lightblue; 
 }
 img {
-  height: 10%;
-  width: 10%;
+  width: 230px;
+  height: 230px;
+  float: left;
+  clear: both;
+  margin-right: 50px; 
+}
+p.about{
+  font-family: 'Courier New', Courier, monospace;
+}
+
 }
