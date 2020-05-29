@@ -20,4 +20,13 @@ p.about{
   font-family: 'Courier New', Courier, monospace;
   font-style: 12px;
 }
+.time {
+  font-family: fantasy;
+}
+.zoom {
+  font-size: 5px;
+}
+.zoom-further {
+  font-size 2px;
+}
 
