@@ -13,6 +13,12 @@ img {
 h1{
   font-size: 87px;
 }
+.web {
+  float:left;
+  border: 2px solid rgb(0, 0, 0);
+  padding: 10px;
+}
+
 h2 {
   font-size 55px;
 }
@@ -27,6 +33,6 @@ p.about{
   font-size: 5px;
 }
 .zoom-further {
-  font-size 2px;
+  font-size: 2px;
 }
 
