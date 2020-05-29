@@ -3,6 +3,7 @@ body {
   padding: 20px;
   padding-top: 40px;
   margin: 12px; 
+  background-image: url(../img/repeated-square.png);
 }
 img {
   width: 100px;
@@ -13,10 +14,18 @@ img {
 }
 h1 {
   font-size: 87px;
+  margin-left: 15%;
 }
 h2 {
   font-size: 55px;
   text-align: center;
+}
+h3 {
+  clear: both;
+  font-size: 40px;
+}
+h4 {
+  font-size: 30px;
 }
 .web {
   float:left;
@@ -26,22 +35,16 @@ h2 {
   margin: 20px;
   text-align: center;
   background-color: rgb(159, 240, 209, 0.3);
-}
-
-h3 {
-  clear: both;
-  font-size: 40px;
-}
-h4 {
-  font-size: 30px;
+  background-image: 
 }
   ul {
   text-align: center;
 }
-p.about{
+.about {
   clear: both;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
   font-style: 12px;
+  background-color: rgb(245,245,245,0.50);
 }
 .time {
   font-family: fantasy;
@@ -53,3 +56,9 @@ p.about{
   font-size: 2px;
 }
 
+@media screen and (max-width: 768px) {
+    body {
+        background-color: black;
+        color: white;
+    }
+}
