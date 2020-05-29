@@ -15,6 +15,7 @@ img {
 h1 {
   font-size: 87px;
   margin-left: 15%;
+  clear:both;
 }
 h2 {
   font-size: 55px;
@@ -29,13 +30,13 @@ h4 {
 }
 .web {
   float:left;
-  border: 2px solid rgb(0, 0, 0);
+  width: 250px;
+  height: 100px;
   padding: 10px;
   padding-bottom: 5px;
   margin: 20px;
   text-align: center;
-  background-color: rgb(159, 240, 209, 0.3);
-  background-image: 
+  background-color: rgb(245,245,245,0.50); 
 }
   ul {
   text-align: center;
@@ -55,10 +56,10 @@ h4 {
 .zoom-further {
   font-size: 2px;
 }
-
-@media screen and (max-width: 768px) {
-    body {
-        background-color: black;
-        color: white;
-    }
+.link {
+  font-size: 20px;
+  font-weight: bolder;
 }
+@media screen and (max-width: 768px) {
+  }
+
