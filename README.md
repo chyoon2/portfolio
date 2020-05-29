@@ -2,7 +2,7 @@
 
 #### By: _**Christopher Yoon**_
 
-_This is a portfolio website to host the work of Christopher Yoon. Throughout the upcoming months this portfolio will be updated with links to new works along with updates to the website itself. These are truly early days for Christopher and it's a time where he will be experiencing a wealth growth and improvement. Feel free to send over words of encouragement, don't be shy, he'd really appreciate it!_
+_This is a portfolio website to host the work of Christopher Yoon. In the upcoming months this portfolio will be updated with links to new works along with updates to the website itself. It's a living growing ever-changing document! These are truly early days for Christopher and it's a time where he will be experiencing a wealth growth and improvement. Feel free to send over words of encouragement, don't be shy, he'd really appreciate it!_
 
 ## Setup/Installation Requirements
 
@@ -32,7 +32,7 @@ _HTML, CSS, GITHUB_
 
 _https://www.toptal.com/designers/subtlepatterns/_
 
-##Licencing
+## Licencing
 
 _This software is licensed under the MIT license_
 
