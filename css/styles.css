@@ -15,7 +15,6 @@ img {
 h1 {
   font-size: 87px;
   margin-left: 15%;
-  clear:both;
 }
 h2 {
   font-size: 55px;
@@ -42,7 +41,6 @@ h4 {
   text-align: center;
 }
 .about {
-  clear: both;
   font-family:Verdana, Geneva, Tahoma, sans-serif;
   font-style: 12px;
   background-color: rgb(245,245,245,0.50);
