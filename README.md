@@ -6,11 +6,11 @@ _This is a portfolio website to host the work of Christopher Yoon. In the upcomi
 
 ## Setup/Installation Requirements
 
-*_Clone Repository_
+*_Clone Repository_*
 
-*_Run index.html in your browser_
+*_Run index.html in your browser_*
 
-*_Or to view website visit http://www.githubpa
+*Or to view website visit https://chyoon2.github.io/portfolio/*
 
 ## Known Bugs or Faulty Versions
 
@@ -36,4 +36,4 @@ _https://www.toptal.com/designers/subtlepatterns/_
 
 _This software is licensed under the MIT license_
 
-Copyright (c) 2020 **Christopher Yoon*
+Copyright (c) 2020 *Christopher Yoon*
