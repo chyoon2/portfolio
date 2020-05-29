@@ -10,20 +10,33 @@ img {
   clear: both;
   margin-right: 25px; 
 }
-h1{
+h1 {
   font-size: 87px;
+}
+h2 {
+  font-size: 55px;
+  text-align: center;
 }
 .web {
   float:left;
   border: 2px solid rgb(0, 0, 0);
   padding: 10px;
+  margin: 20px;
+  text-align: center;
 }
-
-h2 {
-  font-size 55px;
+h3 {
+  clear: both;
+  font-size: 40px;
+}
+h4 {
+  font-size: 30px;
+}
+  ul {
+  text-align: center;
 }
 p.about{
-  font-family: 'Courier New', Courier, monospace;
+  clear: both;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-style: 12px;
 }
 .time {
